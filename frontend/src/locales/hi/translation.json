@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "Home": "होम",
+    "About Us": "अबाउट अस",
+    "Projects": "प्रोजेक्ट्स",
+    "Contact": "कॉन्टैक्ट",
+    "Contact Us": "कॉन्टैक्ट अस"
+  },
+  "header": {
+    "Welcome to Mira Bhayandar Projects": "वेलकम टू मीरा भायंदर प्रोजेक्ट्स",
+    "Top Notch": "टॉप नॉच",
+    "Living Space": "लिविंग स्पेस",
+    "Explore Properties": "एक्सप्लोर प्रॉपर्टीज",
+    "50+ Brand Partners": "50+ ब्रांड पार्टनर्स",
+    "Mira bhayandar Projects prides to work with 50+ established developers": "मीरा भायंदर प्रोजेक्ट्स प्राइड्स टू वर्क विद 50+ एस्टैब्लिश्ड डिवेलपर्स",
+    "Discover Your": "डिस्कवर योर",
+    "Flexible Living": "फ्लेक्सिबल लिविंग",
+    "House": "हाउस"
+  },
+  "about": {
+    "Build Your Dream..": "अपने सपनों का घर बनाएं",
+    "Engage with us for end to end property solutions.": "पूरी संपत्ति समाधान के लिए हमसे जुड़ें",
+    "Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success.": "हमारी सफलता की कहानी टीमवर्क और निरंतर प्रयास का परिणाम है। साथ मिलकर हमने चुनौतियों को पार किया, जीत का जश्न मनाया और प्रगति की नई राह बनाई।",
+    "Read More": "और पढ़ें",
+    "Crores of Property Transacted": "कई करोड़ की संपत्ति का लेन-देन",
+    "Over 1 Million SQ. FT of Property Sold": "10 लाख वर्गफुट से अधिक संपत्ति बेची गई",
+    "Developer Brand Partnership": "डेवलपर ब्रांड साझेदारी",
+    "Colleagues & counting more daily": "सहकर्मी—संख्या हर दिन बढ़ रही है"
+  },
+  "brands": {
+    "Our Partners": "हमारे साझेदार",
+    "We are pleased to work with our partners.": "हमें अपने साझेदारों के साथ काम करने में खुशी है।"
+  },
+  "featuredProject": {
+    "Featured Projects": "वैशिष्ट्यपूर्ण प्रकल्प",
+    "Explore all properties": "सर्व मालमत्ता पाहा",
+    "BHAYANDAR WEST": "भायंदर वेस्ट",
+    "BHAYANDAR EAST": "भायंदर ईस्ट",
+    "Skyline Estate": "नवीन लाँच",
+    "Anjani One": "अंजनी वन",
+    "Pentagon Estate": "पेंटागन एस्टेट",
+    "Anandam Estate": "आनंदम एस्टेट",
+    "Gold Avenue Estate": "गोल्ड अव्हेन्यू एस्टेट",
+    "Mukundam Estate": "मुखुंदम एस्टेट",
+    "MIRA ROAD": "मीरा रोड",
+    "Tirupati Complex": "तिरुपती कॉम्प्लेक्स",
+    "NEW LAUNCH": "नया लॉन्च"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "Home": "હોમ",
+    "About Us": "અબાઉટ અસ",
+    "Projects": "પ્રોજેક્ટ્સ",
+    "Contact": "કોન્ટેક્ટ",
+    "Contact Us": "કોન્ટેક્ટ અસ"
+  },
+  "header": {
+    "Welcome to Mira Bhayandar Projects": "વેલકમ ટૂ મિરા ભાયંદર પ્રોજેક્ટ્સ",
+    "Top Notch": "ટોપ નોચ",
+    "Living Space": "લિવિંગ સ્પેસ",
+    "Explore Properties": "એક્સપ્લોર પ્રોપર્ટીઝ",
+    "Brand Partners": "બ્રાન્ડ પાર્ટનર્સ",
+    "Mira bhayandar Projects prides to work with 50+ established developers": "મિરા ભાયંદર ટૂ વર્ક વિથ 50+ એસ્ટાબ્લિશ્ડ ડેવલોપર્સ",
+    "Discover Your": "ડિસ્કવર યોર",
+    "Flexible Living": "ફ્લેક્સિબલ લિવિંગ",
+    "House": "હાઉસ"
+  },
+  "about": {
+    "Build Your Dream..": "તમારું સપનું સાકાર કરો",
+    "Engage with us for end to end property solutions.": "સંપૂર્ણ પ્રોપર્ટી સોલ્યુશન માટે અમારી સાથે જોડાઓ",
+    "Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success.": "અમારી સફળતા કથા ટીમવર્ક અને અડગ મહેનતનો પુરાવો છે. સાથે મળીને અમે પડકારો જીતી, જીતનો ઉજવણી કર્યો અને પ્રગતિની નવી કહાની રચી.",
+    "Read More": "વધુ વાંચો",
+    "Crores of Property Transacted": "કરોડોના પ્રોપર્ટી ટ્રાન્ઝેક્શન",
+    "Over 1 Million SQ. FT of Property Sold": "૧૦ લાખ ચો.ફુટથી વધુ પ્રોપર્ટી વેચાઈ",
+    "Developer Brand Partnership": "ડેવલપર બ્રાન્ડ ભાગીદારી",
+    "Colleagues & counting more daily": "સહકર્મી—સંખ્યા દરરોજ વધી રહી છે"
+  },
+  "brands": {
+    "Our Partners": "અમારા ભાગીદાર",
+    "We are pleased to work with our partners.": "અમને અમારા ભાગીદારો સાથે કામ કરીને આનંદ છે."
+  },
+  "featuredProject": {
+    "Featured Projects": "ફીચર્ડ પ્રોજેક્ટ્સ",
+    "Explore all properties": "બધી સંપત્તિઓ શોધો",
+    "BHAYANDAR WEST": "ભાયંદર વેસ્ટ",
+    "BHAYANDAR EAST": "ભાયંદર ઈસ્ટ",
+    "Skyline Estate": "ન્યૂ લૉન્ચ",
+    "Anjani One": "અંજની વન",
+    "Pentagon Estate": "પેન્ટાગોન એસ્ટેટ",
+    "Anandam Estate": "આનંદમ એસ્ટેટ",
+    "Gold Avenue Estate": "ગોલ્ડ એવન્યૂ એસ્ટેટ",
+    "Mukundam Estate": "મુકુંદમ એસ્ટેટ",
+    "MIRA ROAD": "મીરા રોડ",
+    "Tirupati Complex": "તિરૂપતિ કોમ્પ્લેક્સ",
+    "NEW LAUNCH": "ન્યૂ લૉન્ચ"
+  }
+}

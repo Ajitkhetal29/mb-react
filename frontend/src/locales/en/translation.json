@@ -1,0 +1,50 @@
+{
+    "nav": {
+        "Home": "Home",
+        "About Us": "About Us",
+        "Projects": "Projects",
+        "Contact": "Contact",
+        "Contact Us": "Contact Us"
+    },
+    "header": {
+        "Welcome to Mira Bhayandar Projects": "Welcome to Mira Bhayandar Projects",
+        "Top Notch": "Top-Notch",
+        "Living Space": "Living Space",
+        "Explore Properties": "Explore Properties",
+        "50+ Brand Partners": "50+ Brand Partners",
+        "Mira bhayandar Projects prides to work with 50+ established developers": "Mira bhayandar Projects prides to work with 50+ established developers",
+        "Discover Your": "Discover Your",
+        "Flexible Living": "Flexible Living",
+        "House": "House"
+    },
+    "about": {
+        "Build Your Dream..": "Build Your Dream..",
+        "Engage with us for end to end property solutions.": "Engage with us for end to end property solutions.",
+        "Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success.": "Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success.",
+        "Read More": "Read More",
+        "Crores of Property Transacted": "Crores of Property Transacted",
+        "Over 1 Million SQ. FT of Property Sold": "Over 1 Million SQ. FT of Property Sold",
+        "Developer Brand Partnership": "Developer Brand Partnership",
+        "Colleagues & counting more daily": "Colleagues & counting more daily"
+    },
+    "brands": {
+        "Our Partners": "Our Partners",
+        "We are pleased to work with our partners.": "We are pleased to work with our partners."
+    },
+    "featuredProject": {
+        "Featured Projects": "Featured Projects",
+        "Explore all properties": "Explore all properties",
+        "BHAYANDAR WEST": "BHAYANDAR WEST",
+        "MIRA ROAD": "BHAYANDAR WEST",
+        "BHAYANDAR EAST": "BHAYANDAR EAST",
+        "Skyline Estate": "New Launch",
+        "Anjani One": "Anjani One",
+        "Pentagon Estate": "Pentagon Estate",
+        "Anandam Estate": "Anandam Estate",
+        "Gold Avenue Estate": "Gold Avenue Estate",
+        "Mukundam Estate": "Mukundam Estate",
+        "Mira Road": "Mira Road",
+        "Tirupati Complex": "Tirupati Complex",
+        "NEW LAUNCH": "NEW LAUNCH"
+    }
+}
