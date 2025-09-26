@@ -8,6 +8,7 @@ const UpdateProject = () => {
   const [editableProject, setEditableProject] = useState(null);
   const inputFeatureRef = useRef();
   const inputGalleryRef = useRef();
+  const inputLayoutImgRef = useRef();
   const [form, setForm] = useState({
     name: "",
     builder: "",
@@ -111,10 +112,27 @@ const UpdateProject = () => {
   };
 
   const handleLayoutChange = (id, e) => {
-    const {name, value } = e.target
+    const { name, value } = e.target;
     setLayouts((prev) =>
       prev.map((l) => {
         l._id === id ? { ...l, [name]: value } : l;
+      })
+    );
+  };
+
+  const onLayoutButtonClick = () => {
+    inputLayoutImgRef.current?.click();
+  };
+
+  const handleLayoutImageChange = (id, e) => {
+    const file = e.target.files?.[0];
+    setLayouts((prev) =>
+      prev.map((l) => {
+        if (l.id !== id) return l;
+        return {
+          ...l,
+          imagePreview: file ? URL.createObjectURL(file) : null,
+        };
       })
     );
   };
@@ -294,7 +312,11 @@ const UpdateProject = () => {
                 <div className="flex flex-col gap-2">
                   <div className="flex">
                     <label htmlFor="">Title</label>
-                    <select  onChange={(e)=>handleLayoutChange(l._id)} name="" id="">
+                    <select
+                      onChange={(e) => handleLayoutChange(l._id)}
+                      name=""
+                      id=""
+                    >
                       <option value="1 BHK">1 BHK</option>
                       <option value="2 BHK">2 BHK</option>
                       <option value="3 BHK">3 BHK</option>
@@ -302,16 +324,32 @@ const UpdateProject = () => {
                   </div>
                   <div className="flex">
                     <label htmlFor="">Area</label>
-                    <input  onChange={(e)=>handleLayoutChange(l._id)} type="number"  />
+                    <input
+                      onChange={(e) => handleLayoutChange(l._id)}
+                      type="number"
+                    />
                   </div>
                   <div className="flex">
                     <label htmlFor="">Price</label>
-                    <input onChange={(e)=>handleLayoutChange(l._id)} type="number"  />
+                    <input
+                      onChange={(e) => handleLayoutChange(l._id)}
+                      type="number"
+                    />
                   </div>
                 </div>
                 <div className="flex flex-col">
-                  <button>Add Image</button>
-                  <img  src={l.image} className="h-20" alt="" />
+                  <input
+                    ref={inputLayoutImgRef}
+                    type="file"
+                    accept="images/*"
+                    multiple
+                    className="hidden "
+                    onChange={(e) => handleLayoutImageChange(l._id)}
+                  />
+                  <button type="button" onClick={onLayoutButtonClick}>
+                    Add Image 
+                  </button>
+                  <img src={l.imagePreview ? l.imagePreview : l.image} className="h-20" alt="" />
                 </div>
               </div>
               <div className="flex items-center justify-center">
